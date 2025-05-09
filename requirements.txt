@@ -1,0 +1,8 @@
+# Requirements for Mobile_Sales_Data_Analysis project
+# Note: Power BI does not use pip packages, but here are supporting tools if needed
+
+pandas
+numpy
+openpyxl
+matplotlib
+seaborn
